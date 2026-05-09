@@ -14,8 +14,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lakshan Ekanayaka",
-  description: "Portfolio of an IT Undergraduate specializing in UI/UX Design.",
+  title: "Senumi Ranasinghe",
+  description: "Portfolio of an IT Undergraduate specializing in Quality Assurance.",
 
   icons: {
     icon: "/icon.svg",

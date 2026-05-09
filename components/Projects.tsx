@@ -20,151 +20,162 @@ interface Project {
 const projects: Project[] = [
     {
         id: 1,
-        title: "Stay Easy House Booking App",
-        category: "Mobile Projects",
-        description: "Stay Easy is a mobile application that simplifies the process of finding and booking houses for rent. Designed with a clean and responsive UI using Android Studio and XML, it offers an intuitive user experience for both renters and property owners.",
-        techStack: [{ name: "Kotlin", icon: Smartphone }, { name: "Expo", icon: Code2 }],
-        image: "/project-60.png",
-        github: "https://github.com/Lakshan-lk/HouseBookingApp.git",
-        demo: "https://github.com/Lakshan-lk/HouseBookingApp.git"
+        title: "Salon Management System",
+        category: "Web Projects",
+        description: "Developed with MERN Stack, Tailwind CSS, and Postman this group project delivers a robust solution.",
+        techStack: [{ name: "MERN", icon: Code2 }, { name: "CSS", icon: Layout }],
+        image: "/public/1.jpg",
+        github: "https://github.com/SenuRanasinghe/ITP",
+        demo: "https://github.com/SenuRanasinghe/ITP"
     },
     {
         id: 2,
-        title: "Spend Wise – Personal Finance Tracker",
+        title: "Task Manager App",
         category: "Mobile Projects",
-        description: "Spend Wise is a Kotlin-based personal finance tracking app built with Android Studio. It helps users manage daily expenses, set monthly budgets, and analyze spending habits effectively - all while storing data securely on the device.",
+        description: "Developed using Kotlin Language in Android Studio.This app helps to Stay focused and accomplish more with our task manager app.",
         techStack: [{ name: "Kotlin", icon: Smartphone }, { name: "Expo", icon: Code2 }],
         image: "/project-70.png",
-        github: "https://github.com/Lakshan-lk/SpendWise.git",
-        demo: "https://github.com/Lakshan-lk/SpendWise.git"
+        github: "https://github.com/SenuRanasinghe/Task-Manager-App-Kotlin",
+        demo: "https://github.com/SenuRanasinghe/Task-Manager-App-Kotlin"
     },
+    
     {
         id: 3,
-        title: "Belleza - Fashion Store",
-        category: "Web Projects",
-        description: "Belleza is a modern and fully functional Fashion Store Website developed as part of my IWT assignment. The platform delivers a sleek, responsive shopping experience for users and includes a robust Admin Panel for backend management.",
-        techStack: [{ name: "HTML", icon: Code2 }, { name: "CSS", icon: Layout }],
+        title: "To-Do App",
+        category: "Mobile Projects",
+        description: "A versatile to-do list application developed using Kotlin. It helps users organize tasksefficiently with features for adding, editing, and deleting tasks.",
+        techStack: [{ name: "Kotlin", icon: Smartphone }, { name: "Expo", icon: Code2 }],
         image: "/project-800.png",
-        github: "https://github.com/Lakshan-lk/Fashion-Store.git",
-        demo: "https://github.com/Lakshan-lk/Fashion-Store.git"
+        github: "https://github.com/SenuRanasinghe/ToDo-App",
+        demo: "https://github.com/SenuRanasinghe/ToDo-App"
     },
     {
         id: 4,
-        title: "Servio - Vehicle Service and Repair Management System",
+        title: "Hospital Management System",
         category: "Web Projects",
-        description: "We are excited to share after nearly month of continus efforts my team i proudly present , Servio, a full-stack web-based platform revolutionizing automotive service management in Sri Lanka. This comprehensive system connects Vehicle owners, Service centers, Technicians, and Admins in a seamless, User-friendly ecosystem. From booking services to tracking repairs in real-time, Servio streamlines the entire vehicle maintenance process with a modern, responsive design.",
-        techStack: [{ name: "Next.js", icon: Code2 }, { name: "Tailwind CSS", icon: Layout }],
+        description: "A hospital management system using the MERN Stack is a web application designed to streamline and automate hospital operations, including patient management, appointment scheduling.",
+        techStack: [{ name: "MERN", icon: Code2 }, { name: "Tailwind CSS", icon: Layout }],
         image: "/project-50.png",
-        github: "https://github.com/Lakshan-lk/Servio---Vehicle-Service-and-Repair-Management-System.git",
-        demo: "https://github.com/Lakshan-lk/Servio---Vehicle-Service-and-Repair-Management-System.git"
+        github: "https://github.com/SenuRanasinghe/MERN-Stack-Hospital-Management-System",
+        demo: "https://github.com/SenuRanasinghe/MERN-Stack-Hospital-Management-System"
     },
     {
         id: 5,
-        title: "NoodleNest – Food Restaurant",
-        category: "UI/UX Design",
-        description: "Excited to share my latest UI/UX design project - Noodle Nest, a modern food restaurant website that blends delicious visuals with a clean and engaging interface.Designed to make online ordering simple and delightful, focusing on visual hierarchy, color balance, and easy navigation.I explored layout systems, typography, and responsive elements to ensure a smooth user experience across all devices.",
-        techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
+        title: "Math Quiz Game",
+        category: "Mobile Projects",
+        description: "A math quiz game developed in Kotlin is an interactive mobile application designed to challenge and improve users' mathematical skills through various levels of difficulty.",
+        techStack: [{ name: "Kotlin", icon: Smartphone }, { name: "Expo", icon: Code2 }],
         image: "/project-9.png",
-        github: "https://www.behance.net/gallery/236668095/NoodleNest-Food-Restaurant-Website-UIUX-Design",
-        demo: "https://www.figma.com/proto/EaoLyOfpy9t7kosfolXffe/Web-site?page-id=0%3A1&node-id=8-204&viewport=-1109%2C-193%2C0.22&t=hd0yyfgB9P1aU4dU-1&scaling=min-zoom&content-scaling=fixed"
+        github: "https://github.com/SenuRanasinghe/Maths-Quiz-Game-Multi",
+        demo: "https://github.com/SenuRanasinghe/Maths-Quiz-Game-Multi"
 
     },
     {
         id: 6,
-        title: "BMW M420 Website UI/UX Design",
-        category: "UI/UX Design",
-        description: "Excited to share my latest UI/UX concept - a modern and bold interface for the BMW M420.This design focuses on:Clean typography & strong visual hierarchy,Car color customization interaction,Minimal layout with high-contrast branding",
-        techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
+        title: "Airline Reservation System",
+        category: "Web Projects",
+        description: "An airline reservation system using HTML, CSS, JavaScript, and PHP is a web-based platform that enables users to search for flights, book tickets, and manage reservations online.",
+        techStack: [{ name: "HTML", icon: Code2 }, { name: "CSS", icon: Code2 }, { name: "JavaScript", icon: Code2 }, { name: "PHP", icon: Code2 }],
         image: "/project-100.png",
-        github: "https://www.behance.net/gallery/240621473/BMW-M420-Automotive-Website-UIUX-Concept-Design",
-        demo: "https://www.figma.com/proto/EaoLyOfpy9t7kosfolXffe/Web-site?page-id=0%3A1&node-id=8-204&viewport=-1109%2C-193%2C0.22&t=hd0yyfgB9P1aU4dU-1&scaling=min-zoom&content-scaling=fixed"
+        github: "https://github.com/SenuRanasinghe/IWT",
+        demo: "https://github.com/SenuRanasinghe/IWT"
 
     },
     {
         id: 7,
-        title: "Tasty Food - Food Restaurant",
-        category: "UI/UX Design",
-        description: "This Individual project is a modern restaurant and food ordering website design that delivers a clean, attractive, and user-friendly experience. The design focuses on showcasing food menus beautifully while making it simple for customers to browse, order, and connect.",
-        techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
+        title: "Apple Clone Website",
+        category: "Web Projects",
+        description: "A replica of the Apple website using HTML and CSS aims to mimic the sleek design, intuitive navigation, and visual appeal of the original Apple site.",
+        techStack:  [{ name: "HTML", icon: Code2 }, { name: "CSS", icon: Code2 }, { name: "JavaScript", icon: Code2 }],
         image: "/project-40.png",
-        github: "https://www.behance.net/gallery/235727011/Tasty-Food-Food-Restaurant-Website-Design-",
-        demo: "https://www.figma.com/proto/EaoLyOfpy9t7kosfolXffe/Web-site?page-id=13%3A3&node-id=47-409&viewport=747%2C829%2C0.1&t=v1A9YTIrOD98JgZs-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=47%3A409"
+        github: "https://github.com/SenuRanasinghe/Apple",
+        demo: "https://github.com/SenuRanasinghe/Apple"
 
     },
     {
         id: 8,
-        title: "Fruity Website Concept UI/UX Design",
-        category: "UI/UX Design",
-        description: "Excited to share my latest UI/UX exploration a modern, minimal, product focused landing experience for a fruity beverages brand 🍒 Cherry | 🍐 Pear | 🍋 Lemon | 🍎 Apple | 🍊 Quince | 🥝 Exotic Mix",
-        techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
+        title: "Admin Dashboard Web ",
+        category: "Web Projects",
+        description: "A modern admin dashboard web application built with React and Tailwind CSS. It features a sleek design, responsive layout, and interactive components to manage data and visualize key metrics effectively.",
+        techStack: [{ name: "React", icon: Code2 }, { name: "Tailwind CSS", icon: Layers }],
         image: "/project-110.png",
-        github: "https://www.behance.net/gallery/241215065/Fruity-Website-Concept-UIUX-Design",
-        demo: "https://www.figma.com/proto/g26wu9g75iY1ZTnXcUO1gV/UI-UX-Page?page-id=0%3A1&node-id=7-1149&viewport=526%2C292%2C0.1&t=11BlXNVz3bQUfYz0-1&scaling=min-zoom&content-scaling=fixed"
+        github: "https://github.com/SenuRanasinghe/Admin-Dashboard-reactjs",
+        demo: "https://github.com/SenuRanasinghe/Admin-Dashboard-reactjs"
 
     },
     {
         id: 9,
-        title: "Fruity Animation Website UI/UX Design",
+        title: "Book Heaven – Online Reading Books Platform",
         category: "UI/UX Design",
-        description: "Excited to share my latest UI/UX concept — Fruity Cider Landing Page.Fruity is a concept landing page designed for a healthy fruit-based drink brand. The main objective was to create a fresh, natural, and inviting digital experience that builds trust and encourages users to order.",
+        description: "Designed a modern online book reading platform with multiple book categories, easy navigation, and a user-friendly reading experience. Focused on creating clean layouts, attractive book displays, and smooth user interaction flows",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
         image: "/project-120.png",
-        github: "https://www.behance.net/gallery/245445469/Fruity-Animation-Website-UIUX-Design",
-        demo: "https://www.figma.com/proto/g26wu9g75iY1ZTnXcUO1gV/UI-UX-Page?page-id=65%3A2&node-id=65-5&viewport=156%2C328%2C0.16&t=9YJgcRaP830qgPPe-1&scaling=scale-down&content-scaling=fixed"
+        github: "",
+        demo: "https://www.figma.com/design/Yd3wCSaqkmehH6lrAjRuxk/Book-Haven?m=auto&t=03mAIpgNHI8AgJuc-6"
 
     },
     {
         id: 10,
-        title: "Planto – Plant Store Website UI/UX Design",
+        title: "Redesign Lanka Holidays.com Website",
         category: "UI/UX Design",
-        description: "Excited to share my new UI/UX Design Project – “Planto”, a modern Plant Store Website built to create a calm and nature-inspired online shopping experience. 🌱 The main goal of this project was to design an aesthetic and minimal user interface that blends visual elegance with usability — making it easier for users to explore, choose, and purchase plants effortlessly.",
+        description: "Redesigned the existing Lanka Holidays website interface by improving usability issues, visual consistency, and overall user experience. Enhanced the layout structure, booking flow, and responsive design for better customer engagement.UI/UX Tools Used: Figma, UX Research, Wireframing, High-Fidelity Mockups, Prototyping, Design Systems, Responsive Design",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
         image: "/project-13.png",
-        github: "https://www.behance.net/gallery/236502037/Planto-Plant-Store-Website-UIUX-Design",
-        demo: "https://www.figma.com/proto/EaoLyOfpy9t7kosfolXffe/Web-site?page-id=59%3A56&node-id=89-2&viewport=279%2C208%2C0.12&t=p6KrHzLmf953rv8o-1&scaling=min-zoom&content-scaling=fixed"
+        github: "",
+        demo: "https://www.figma.com/design/EW8zRs7MUVF6QeDtFwW9oa/Redesign-Lanka-Holidays-website?m=auto&t=03mAIpgNHI8AgJuc-6"
 
     },
     {
         id: 11,
-        title: "Fruity Beverage Concept UI/UX Design",
+        title: "Pet Care App",
         category: "UI/UX Design",
-        description: "Excited to share my latest UI/UX concept — Fruity Cider Landing Page.Fruity is a concept landing page designed for a healthy fruit-based drink brand. The main objective was to create a fresh, natural, and inviting digital experience that builds trust and encourages users to order.",
+        description: "Designed a pet care mobile application that helps users manage pet-related services, care routines, and appointments through a simple and engaging user interface. Emphasized accessibility and user-friendly navigation.UI/UX Tools Used: Figma, Mobile UI Design, Wireframing, Prototyping, Typography, Color Styling, User-Centered Design",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
         image: "/project-14.png",
-        github: "https://www.behance.net/gallery/245533175/UIUX-Mobile-Design-Project-Fruity-Beverage-Concept",
-        demo: "https://www.figma.com/proto/g26wu9g75iY1ZTnXcUO1gV/UI-UX-Page?page-id=96%3A423&node-id=96-3404&viewport=291%2C209%2C0.1&t=SK4ZZXLDLJMEeeOd-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=96%3A3404"
+        github: "",
+        demo: "https://www.figma.com/design/juMCw5g3F7KhBsA1FbIs3h/Pet-Care?m=auto&t=03mAIpgNHI8AgJuc-6"
 
     },
     {
         id: 12,
-        title: "Sri Lanka Tourism Website",
+        title: "Movie Ticket Booking App",
         category: "UI/UX Design",
-        description: "This concept focuses on showcasing the beauty of Sri Lanka through a clean, immersive, and visually engaging interface.I explored modern layouts, bold typography, and high-quality imagery to bring Nature, Wildlife, Culture, Airlines and travel experiences together in one smooth user journey.",
+        description: "Created a movie ticket booking application that allows users to browse movies, reserve seats, and book tickets online with a smooth and intuitive interface. Focused on improving the ticket booking journey and user convenience.UI/UX Tools Used: Figma, Interactive Prototyping, User Flow Mapping, Auto Layout, Components, Mobile UI Design, Icon Design",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
         image: "/project-30.png",
-        github: "https://www.behance.net/gallery/239110627/Sri-Lanka-Tourism-Website-UIUX-Design",
-        demo: "https://www.figma.com/proto/EaoLyOfpy9t7kosfolXffe/Web-site?page-id=71%3A19&node-id=75-58&viewport=843%2C678%2C0.1&t=TRlMJv3MFaZdfSfU-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=75%3A58"
+        github: "",
+        demo: "https://www.figma.com/design/jkszYEMdSYv8JTDQZxVXrB/Movie-Ticket-Booking?m=auto&t=03mAIpgNHI8AgJuc-6"
     },
     {
         id: 13,
-        title: "Mag City Website Redesign",
+        title: "Food Ordering App",
         category: "UI/UX Design",
-        description: " Excited to share our Usability Improvement Project for the Mag City website! This project was completed as part of our Human–Computer Interaction (HCI) module, where we focused on enhancing the overall user experience and interface design of an existing platform.",
+        description: "Developed a food ordering application where users can browse restaurant menus, place online food orders, and track deliveries easily. Focused on creating an attractive food browsing experience with seamless ordering interactions.UI/UX Tools Used: Figma, Prototyping, Auto Layout, UI Components, User Journey Mapping, Responsive Mobile Design, Visual Hierarchy",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
         image: "/project-20.png",
-        github: "https://www.behance.net/gallery/240177833/MagCity-Vehicle-Service-Website-%28UIUX-Design%29",
-        demo: "https://www.figma.com/proto/kNxZH97bRLRRTZwfhuiF5K/Project-Magcity?page-id=0%3A1&node-id=614-9695&viewport=-1890%2C6495%2C0.12&t=fi4h8W3MP6Vm3PrJ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=530%3A2010"
+        github: "",
+        demo: "https://www.figma.com/design/IGnbotQBfJgU22MvasNg8A/Foodie?m=auto&t=03mAIpgNHI8AgJuc-6"
     },
     {
         id: 14,
-        title: "Lakshan Portfolio",
-        category: "Web Projects",
-        description: "My personal interactive portfolio website designed and developed from scratch. Features a futuristic dark theme, glassmorphism UI, and smooth animations to showcase my skills as a UI/UX Designer and Frontend Developer.",
-        techStack: [{ name: "Next.js", icon: Code2 }, { name: "TypeScript", icon: Layout }],
+        title: "Coffee Shop App",
+        category: "UI/UX Design",
+        description: "Designed a coffee shop application that enables users to explore coffee products, place orders, and interact with a modern café-themed interface. Focused on delivering a visually appealing and smooth customer experience.UI/UX Tools Used: Figma, High-Fidelity UI Design, Prototyping, Design Components, Typography, Color Palette Design, Mobile App Design",
+        techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
         image: "/project-10.png",
-        github: "https://github.com/Lakshan-lk/Lakshan_Portfolio-.git",
-        demo: "https://lakshan-ekanayaka.vercel.app/#home"
+        github: "",
+        demo: "https://www.figma.com/design/SAcW59bBpG2fsQThTJQktM/Coffee-Shop?m=auto&t=03mAIpgNHI8AgJuc-6"
     },
+    {
+        id: 15,
+        title: "Salon Management App",
+        category: "UI/UX Design",
+        description: "Designed a salon management application that allows users to book appointments, manage salon services, and schedule staff activities through an organized and user-friendly interface. Focused on creating a smooth booking experience and an attractive modern design for customers and salon administrators.",
+        techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
+        image: "/project-10.png",
+        github: "",
+        demo: "https://www.figma.com/design/FuQgC8Vi1ndeUGBJxDW46w/Salon-Management?m=auto&t=03mAIpgNHI8AgJuc-6"
+    }
 ];
 
 const allCategories = ["All", "UI/UX Design", "Web Projects", "Mobile Projects"];

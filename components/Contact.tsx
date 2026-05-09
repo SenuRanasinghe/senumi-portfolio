@@ -163,7 +163,7 @@ export const Contact = () => {
 
                     {/* Brand & Copyright */}
                     <div className="text-center md:text-left">
-                        <h4 className="text-2xl font-bold text-white mb-2">Senumi<span className="text-cyan-400">.Senu</span></h4>
+                        <h4 className="text-2xl font-bold text-white mb-2">Senumi</h4>
                         <p className="text-slate-500 text-sm">
                             © 2026 Senumi Ranasinghe. All rights reserved.
                         </p>
