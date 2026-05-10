@@ -24,7 +24,7 @@ const projects: Project[] = [
         category: "Web Projects",
         description: "Developed with MERN Stack, Tailwind CSS, and Postman this group project delivers a robust solution.",
         techStack: [{ name: "MERN", icon: Code2 }, { name: "CSS", icon: Layout }],
-        image: "/public/1.jpg",
+        image: "/1.jpg",
         github: "https://github.com/SenuRanasinghe/ITP",
         demo: "https://github.com/SenuRanasinghe/ITP"
     },
@@ -34,7 +34,7 @@ const projects: Project[] = [
         category: "Mobile Projects",
         description: "Developed using Kotlin Language in Android Studio.This app helps to Stay focused and accomplish more with our task manager app.",
         techStack: [{ name: "Kotlin", icon: Smartphone }, { name: "Expo", icon: Code2 }],
-        image: "/project-70.png",
+        image: "/2.jpeg",
         github: "https://github.com/SenuRanasinghe/Task-Manager-App-Kotlin",
         demo: "https://github.com/SenuRanasinghe/Task-Manager-App-Kotlin"
     },
@@ -45,7 +45,7 @@ const projects: Project[] = [
         category: "Mobile Projects",
         description: "A versatile to-do list application developed using Kotlin. It helps users organize tasksefficiently with features for adding, editing, and deleting tasks.",
         techStack: [{ name: "Kotlin", icon: Smartphone }, { name: "Expo", icon: Code2 }],
-        image: "/project-800.png",
+        image: "/4.jpg",
         github: "https://github.com/SenuRanasinghe/ToDo-App",
         demo: "https://github.com/SenuRanasinghe/ToDo-App"
     },
@@ -55,7 +55,7 @@ const projects: Project[] = [
         category: "Web Projects",
         description: "A hospital management system using the MERN Stack is a web application designed to streamline and automate hospital operations, including patient management, appointment scheduling.",
         techStack: [{ name: "MERN", icon: Code2 }, { name: "Tailwind CSS", icon: Layout }],
-        image: "/project-50.png",
+        image: "/6.jpg",
         github: "https://github.com/SenuRanasinghe/MERN-Stack-Hospital-Management-System",
         demo: "https://github.com/SenuRanasinghe/MERN-Stack-Hospital-Management-System"
     },
@@ -65,7 +65,7 @@ const projects: Project[] = [
         category: "Mobile Projects",
         description: "A math quiz game developed in Kotlin is an interactive mobile application designed to challenge and improve users' mathematical skills through various levels of difficulty.",
         techStack: [{ name: "Kotlin", icon: Smartphone }, { name: "Expo", icon: Code2 }],
-        image: "/project-9.png",
+        image: "/7.avif",
         github: "https://github.com/SenuRanasinghe/Maths-Quiz-Game-Multi",
         demo: "https://github.com/SenuRanasinghe/Maths-Quiz-Game-Multi"
 
@@ -76,7 +76,7 @@ const projects: Project[] = [
         category: "Web Projects",
         description: "An airline reservation system using HTML, CSS, JavaScript, and PHP is a web-based platform that enables users to search for flights, book tickets, and manage reservations online.",
         techStack: [{ name: "HTML", icon: Code2 }, { name: "CSS", icon: Code2 }, { name: "JavaScript", icon: Code2 }, { name: "PHP", icon: Code2 }],
-        image: "/project-100.png",
+        image: "/8.png",
         github: "https://github.com/SenuRanasinghe/IWT",
         demo: "https://github.com/SenuRanasinghe/IWT"
 
@@ -87,7 +87,7 @@ const projects: Project[] = [
         category: "Web Projects",
         description: "A replica of the Apple website using HTML and CSS aims to mimic the sleek design, intuitive navigation, and visual appeal of the original Apple site.",
         techStack:  [{ name: "HTML", icon: Code2 }, { name: "CSS", icon: Code2 }, { name: "JavaScript", icon: Code2 }],
-        image: "/project-40.png",
+        image: "/9.webp",
         github: "https://github.com/SenuRanasinghe/Apple",
         demo: "https://github.com/SenuRanasinghe/Apple"
 
@@ -98,7 +98,7 @@ const projects: Project[] = [
         category: "Web Projects",
         description: "A modern admin dashboard web application built with React and Tailwind CSS. It features a sleek design, responsive layout, and interactive components to manage data and visualize key metrics effectively.",
         techStack: [{ name: "React", icon: Code2 }, { name: "Tailwind CSS", icon: Layers }],
-        image: "/project-110.png",
+        image: "/Admin-Dashboard-UI.jpeg",
         github: "https://github.com/SenuRanasinghe/Admin-Dashboard-reactjs",
         demo: "https://github.com/SenuRanasinghe/Admin-Dashboard-reactjs"
 
@@ -109,7 +109,7 @@ const projects: Project[] = [
         category: "UI/UX Design",
         description: "Designed a modern online book reading platform with multiple book categories, easy navigation, and a user-friendly reading experience. Focused on creating clean layouts, attractive book displays, and smooth user interaction flows",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
-        image: "/project-120.png",
+        image: "/Book-Haven-UI.png",
         github: "",
         demo: "https://www.figma.com/design/Yd3wCSaqkmehH6lrAjRuxk/Book-Haven?m=auto&t=03mAIpgNHI8AgJuc-6"
 
@@ -120,7 +120,7 @@ const projects: Project[] = [
         category: "UI/UX Design",
         description: "Redesigned the existing Lanka Holidays website interface by improving usability issues, visual consistency, and overall user experience. Enhanced the layout structure, booking flow, and responsive design for better customer engagement.UI/UX Tools Used: Figma, UX Research, Wireframing, High-Fidelity Mockups, Prototyping, Design Systems, Responsive Design",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
-        image: "/project-13.png",
+        image: "/Lanka-Holidays-UI.png",
         github: "",
         demo: "https://www.figma.com/design/EW8zRs7MUVF6QeDtFwW9oa/Redesign-Lanka-Holidays-website?m=auto&t=03mAIpgNHI8AgJuc-6"
 
@@ -131,7 +131,7 @@ const projects: Project[] = [
         category: "UI/UX Design",
         description: "Designed a pet care mobile application that helps users manage pet-related services, care routines, and appointments through a simple and engaging user interface. Emphasized accessibility and user-friendly navigation.UI/UX Tools Used: Figma, Mobile UI Design, Wireframing, Prototyping, Typography, Color Styling, User-Centered Design",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
-        image: "/project-14.png",
+        image: "/Pet-Care-UI.png",
         github: "",
         demo: "https://www.figma.com/design/juMCw5g3F7KhBsA1FbIs3h/Pet-Care?m=auto&t=03mAIpgNHI8AgJuc-6"
 
@@ -142,17 +142,7 @@ const projects: Project[] = [
         category: "UI/UX Design",
         description: "Created a movie ticket booking application that allows users to browse movies, reserve seats, and book tickets online with a smooth and intuitive interface. Focused on improving the ticket booking journey and user convenience.UI/UX Tools Used: Figma, Interactive Prototyping, User Flow Mapping, Auto Layout, Components, Mobile UI Design, Icon Design",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
-        image: "/project-30.png",
-        github: "",
-        demo: "https://www.figma.com/design/jkszYEMdSYv8JTDQZxVXrB/Movie-Ticket-Booking?m=auto&t=03mAIpgNHI8AgJuc-6"
-    },
-    {
-        id: 13,
-        title: "Food Ordering App",
-        category: "UI/UX Design",
-        description: "Developed a food ordering application where users can browse restaurant menus, place online food orders, and track deliveries easily. Focused on creating an attractive food browsing experience with seamless ordering interactions.UI/UX Tools Used: Figma, Prototyping, Auto Layout, UI Components, User Journey Mapping, Responsive Mobile Design, Visual Hierarchy",
-        techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
-        image: "/project-20.png",
+        image: "/Movie-Ticket-Booking-UI.png",
         github: "",
         demo: "https://www.figma.com/design/IGnbotQBfJgU22MvasNg8A/Foodie?m=auto&t=03mAIpgNHI8AgJuc-6"
     },
@@ -162,7 +152,7 @@ const projects: Project[] = [
         category: "UI/UX Design",
         description: "Designed a coffee shop application that enables users to explore coffee products, place orders, and interact with a modern café-themed interface. Focused on delivering a visually appealing and smooth customer experience.UI/UX Tools Used: Figma, High-Fidelity UI Design, Prototyping, Design Components, Typography, Color Palette Design, Mobile App Design",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
-        image: "/project-10.png",
+        image: "/Coffee-Shop-UI.png",
         github: "",
         demo: "https://www.figma.com/design/SAcW59bBpG2fsQThTJQktM/Coffee-Shop?m=auto&t=03mAIpgNHI8AgJuc-6"
     },
@@ -172,7 +162,7 @@ const projects: Project[] = [
         category: "UI/UX Design",
         description: "Designed a salon management application that allows users to book appointments, manage salon services, and schedule staff activities through an organized and user-friendly interface. Focused on creating a smooth booking experience and an attractive modern design for customers and salon administrators.",
         techStack: [{ name: "Figma", icon: Figma }, { name: "Prototyping", icon: Layers }],
-        image: "/project-10.png",
+        image: "/Salon-Management.UI.jpeg",
         github: "",
         demo: "https://www.figma.com/design/FuQgC8Vi1ndeUGBJxDW46w/Salon-Management?m=auto&t=03mAIpgNHI8AgJuc-6"
     }
